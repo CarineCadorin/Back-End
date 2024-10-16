@@ -1,0 +1,7 @@
+Meirylene Avelino reforçou a importância da cultura de segurança no dia a dia de todas as pessoas como forma de evitar golpes de
+engenharia social. Elabore pelo menos uma técnica empregada numa API Web que pode evitar com que usuários sejam vítimas de golpes de engenharia social.
+
+Uma técnica eficaz que foi citada pela palestrante no dia ela a verificação de multifatores que é usada para evitar golpes de engenharia social numa API Web. Essa técnica exige que o usuário passe por mais de uma camada de autenticação para acessar os recursos da API.
+ Geralmente, a MFA combina algo que o usuário sabe (como uma senha) com algo que ele possui (como um código temporário gerado por um aplicativo autenticador ou enviado via SMS).
+Ao implementar a MFA, mesmo que um invasor obtenha as credenciais de um usuário por meio de engenharia social, ele ainda precisará de uma segunda forma de autenticação, como o código temporário, o que dificulta bastante o ataque.
+Essa técnica não apenas protege os dados do usuário, mas também impede que criminosos se aproveitem da confiança ou falta de atenção das vítimas.
